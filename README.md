@@ -133,4 +133,4 @@ iface eth0 inet dhcp
 Semua CLIENT harus menggunakan konfigurasi dari DHCP Server.
 
 ## No 2
-Client yang melalui Switch3 mendapatkan range IP dari 192.178.3.16 - 192.178.3.32 dan 192.178.3.64 - 192.178.3.80
+Client yang melalui Switch3 mendapatkan range IP dari `192.178.3.16` - `192.178.3.32` dan `192.178.3.64` - `192.178.3.80`
