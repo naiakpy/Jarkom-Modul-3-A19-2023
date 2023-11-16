@@ -6,7 +6,7 @@
 | Nayya Kamila Putri Y | 5025211183 |
 | Javier Nararya Aqsa Setiyono | 5025211245 |
 
-# Config
+# Konfigurasi
 - Aura
 ```
 auto eth0
